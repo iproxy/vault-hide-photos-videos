@@ -7,7 +7,8 @@ More information on this application and the features can be found at: vaultyapp
 
 
 # Tutorial
-
+## (.vdata) Files
+###### *These types of files created by Vaulty are named using a string of numbers and hide in the, "/Documents/Vaulty" directory of your phone. *
 
 
 # Android Video Coming Soon.
