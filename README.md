@@ -16,6 +16,8 @@ Download: Hex Editor > [HxD](https://mh-nexus.de/en/hxd/)
 ###### (.mp4) - 66 74 79 70 6D 70 34 32 | ftypmp42 
 ###### (.png) - 89 50 4E 47 0D 0A 1A 0A | ‰PNG....
 ###### (.JPE, .JPEG, .JPG) - FF D8 | ÿØ
+Vaulty
+> 6F 62 73 63 75 72 65 64 | obscured
 
 # Android Video Coming Soon.
 <placeholder>
