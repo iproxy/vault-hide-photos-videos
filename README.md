@@ -6,10 +6,16 @@ Recover the data stored inside the .vdata file from the Android Vaulty applicati
 More information on this application and the features can be found on their website: [Vaulty](vaultyapp.com)
 
 
-# Tutorial
+# Information
 ## (.vdata) Files
 ###### These types of files created by Vaulty are named using a string of numbers and hide in the, "/Documents/Vaulty" directory of your phone. These files can be opened using any hex editor. 
 Download: Hex Editor > [HxD](https://mh-nexus.de/en/hxd/)
+
+## File Signatures
+###### (.3GG, .3GP, .3G2) - 66 74 79 70 33 67 70 | ftyp3gp
+###### (.mp4) - 66 74 79 70 6D 70 34 32 | ftypmp42 
+###### (.png) - 89 50 4E 47 0D 0A 1A 0A | ‰PNG....
+###### (.JPE, .JPEG, .JPG) - FF D8 | ÿØ
 
 # Android Video Coming Soon.
 <placeholder>
