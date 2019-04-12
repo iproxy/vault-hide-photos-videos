@@ -3,7 +3,7 @@ Recover the data stored inside the .vdata file from the Android Vaulty applicati
 
 # What is Vaulty?
 ###### Vaulty offers to keep your pictures or videos on your phone that you don't want others to see private from prying eyes. The Vaulty application allows users to set a password to a, "Vault" that contains your selected stored videos or pictures. 
-More information on this application and the features can be found at: [Vaulty](vaultyapp.com)
+More information on this application and the features can be found on their website: [Vaulty](vaultyapp.com)
 
 
 # Tutorial
