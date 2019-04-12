@@ -19,8 +19,14 @@ Download: Hex Editor > [HxD](https://mh-nexus.de/en/hxd/)
 ###### Vaulty
 > 6F 62 73 63 75 72 65 64 | obscured
 
-# Android Video Coming Soon.
-<placeholder>
+# Manual Tutorial
+> Coming Soon
+- [x] Rough Draft
+- [ ] Type final copy
+
+
+# Video Tutorial
+> Coming Soon
 
 
   
