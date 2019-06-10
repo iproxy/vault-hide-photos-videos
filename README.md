@@ -29,4 +29,4 @@ Download: Hex Editor > [HxD](https://mh-nexus.de/en/hxd/)
 > Coming Soon
 
 
-  
+  [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fiproxy%2Fvault-hide-photos-videos.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fiproxy%2Fvault-hide-photos-videos?ref=badge_large)
